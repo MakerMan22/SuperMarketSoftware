@@ -1,0 +1,18 @@
+
+
+Electronic
+5
+rice cooker
+CostCo
+UPS
+30.0
+20.0
+2
+3
+kg
+24/02/20
+rice cooker
+1
+5
+365
+240.0

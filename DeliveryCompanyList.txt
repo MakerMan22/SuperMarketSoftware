@@ -1,0 +1,40 @@
+
+UPS
+0800100200
+1
+5
+Wharf Road
+Uxbridge
+UK
+UB82NB
+Middlesex
+
+FEDEX
+0121405030
+3
+4
+Wellington way
+Birmingham
+UK
+BH865TJ
+Midlands
+
+Royal Mail
+01348881257
+4
+40
+Queens drive 
+Southampton
+KI840AD
+Kent
+UK
+
+Royal Mail
+01348881257
+4
+40
+Old kent road
+Southampton
+KI840AD
+Kent
+UK

@@ -1,0 +1,17 @@
+
+
+Kitchen
+4
+cutlery
+CostCo
+UPS
+2.0
+1.0
+2
+40
+g 
+10/10/10
+cutlery
+10
+150
+40

@@ -1,0 +1,33 @@
+
+
+Food
+7
+milk
+Farm Wholesale
+UPS
+0.5
+0.2
+20
+4
+pint 
+12/12/12
+milk
+10
+100
+5
+
+Food
+2
+eggs
+Farm Wholesale
+UPS
+2.0
+1.2
+2
+250
+g 
+24/02/20
+eggs
+10
+100
+888
